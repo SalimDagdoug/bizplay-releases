@@ -8,8 +8,6 @@ Click the link below to download the latest Android APK:
 
 [**Download BizPlay v1.0.0**](https://github.com/SalimDagdoug/bizplay-releases/releases/latest)
 
-*(Replace `<YOUR-USERNAME>` and `<REPO-NAME>` with your GitHub details)*
-
 ## ✨ Key Features
 
 *   **Real-time Dashboard**: Track revenue, expenses, and profit instantly.
