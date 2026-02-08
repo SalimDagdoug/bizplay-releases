@@ -1,4 +1,4 @@
-# BizPlay (formerly Goplay Business Manager)
+# BizPlay
 
 **BizPlay** is the ultimate business management solution for tracking daily operations, managing staff, and analyzing financial performance.
 
