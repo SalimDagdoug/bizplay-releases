@@ -6,7 +6,7 @@
 
 Click the link below to download the latest Android APK:
 
-[**Download BizPlay v1.0.2**](https://github.com/SalimDagdoug/bizplay-releases/releases/latest)
+[**Download BizPlay v1.0.3**](https://github.com/SalimDagdoug/bizplay-releases/releases/latest)
 
 ## ✨ Key Features
 
