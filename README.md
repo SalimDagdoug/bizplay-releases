@@ -6,7 +6,7 @@
 
 Click the link below to download the latest Android APK:
 
-[**⬇️ Download BizPlay v1.1.0**](https://github.com/SalimDagdoug/bizplay-releases/releases/latest)
+[**⬇️ Download BizPlay v1.1.1**](https://github.com/SalimDagdoug/bizplay-releases/releases/latest)
 
 > Requires Android 6.0 (API 23) or higher. Allow installation from unknown sources in your device settings.
 
@@ -15,6 +15,7 @@ Click the link below to download the latest Android APK:
 ## ✨ Key Features
 
 - **Live Operations Module** — Open/close shifts, manage stations and sessions in real time, track beverages, billing and receipts
+- **Partial Session & Game Settlement** — Settle individual games and consumables separately with custom payment methods and discounts
 - **Real-time Dashboard** — Track revenue, expenses, and profit at a glance
 - **Easy Entry Logging** — Quickly record and review daily business activities
 - **Bulk Entry** — Fill in an entire month of entries in one spreadsheet-style view
@@ -27,33 +28,17 @@ Click the link below to download the latest Android APK:
 
 ## 📝 Release Notes
 
-### v1.1.0 — Operations Module & Full UI Redesign *(Latest)*
+### v1.1.1 — Partial Session Settlement & Fixed In-App Updater *(Latest)*
+- **Partial Game Settlement**: Settle games and consumables independently with discount support.
+- **Fixed In-App Updater**: Direct streaming download with live byte counter and reliable package installer trigger.
+- **Full Android Compatibility**: Added complete FileProvider paths for Android 8 to 15.
 
-#### 🏪 Operations Module (New)
-A complete live floor management system:
-- Control panel with shift open/close and real-time station management
-- Beverages tracking with per-session pricing
-- Product pricing configuration
-- Stock/storage tracking
-- Quick billing calculator
-- Shift summaries, receipts and activity logs
-- Real-time Firestore sync
-
-#### 🎨 UI Redesign
-- Unified dark theme (Slate 950) across all screens
-- Collapsible left navigation sidebar with smooth animation
-- Modern typography and premium card styling
-- Redesigned dialogs, charts, pickers and forms
-
-#### 🐛 Fixes
-- Fixed dark text issue in date range picker
-- Improved bulk entry unsaved-changes guard
-- Hardened version update detection
-
----
+### v1.1.0 — Operations Module & Full UI Redesign
+- **Operations Module**: Real-time lounge floor control, shift management, beverages, pricing, and storage.
+- **Slate 950 Theme**: Full UI redesign across all screens with collapsible sidebar navigation.
 
 ### v1.0.3
-- Stability improvements and bug fixes
+- Stability improvements and bug fixes.
 
 ### v1.0.2 — In-App Updates & Dashboard Improvements
 - **In-App Updates**: Automatically checks for new versions and installs directly within the app
